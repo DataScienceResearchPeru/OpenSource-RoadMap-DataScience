@@ -153,7 +153,7 @@ Cursos | Duración | Esfuerzo | Plataforma
 ### Especialización
 
 Después de terminar los cursos anteriores, comience sus especializaciones en los temas que le interesan más.
-Puede ver una lista de especializaciones disponibles. [Aquí](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience/blob/master/especializacion/).
+Puede ver una lista de especializaciones disponibles. [Aquí](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience/tree/master/especializacion).
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 

@@ -1,0 +1,11 @@
+*.log
+**LibriSpeech 
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.tar.gz
+*.pyc
+*.json
+**/cache
+**/logs
+**/model

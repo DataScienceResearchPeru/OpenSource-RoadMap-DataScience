@@ -1,0 +1,33 @@
+        *.class
+.DS_Store
+Servers/*
+.metadata
+target/
+bin/
+rebel.xml
+.mvn*
+mvnw*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+*.versionsBackup
+
+.vscode

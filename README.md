@@ -1,4 +1,4 @@
-![Open Source Road Map Data Science](images/logodsrp.png)
+![Open Source Road Map Data Science](images/foto-github.png)
 
 <h3 align="center">Open Source Road Map Data Science</h3>
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## Cómo contribuir
 
-Puede hacer un Pull Request y agregar más contenido. Aquí un [Tutorial](https://github.com/omegaup/omegaup/wiki/C%C3%B3mo-Hacer-un-Pull-Request)
+Puede hacer un Pull Request y agregar más contenido. Aquí un [Tutorial](https://blog.desdelinux.net/tutorial-simple-primer-pr-pull-request/)
 
 
 ## De qué trata esto
@@ -49,20 +49,20 @@ para tener éxito.
 
 ## Currícula
 
-- [Linear Algebra](#linear-algebra)
-- [Single Variable Calculus](#single-variable-calculus)
-- [Multivariable Calculus](#multivariable-calculus)
+- [Algebra Lineal](#algebra-lineal)
+- [Cálculo](#calculo)
+- [Cálculo multivariable](#calculo-multivariable)
 - [Python](#python)
-- [Probability and Statistics](#probability-and-statistics)
-- [Introduction to Data Science](#introduction-to-data-science)
+- [Probabilidad y Estadística](#probabilidad-y-estadistica)
+- [Introducción a la Ciencia de Datos](#introduccion-a-la-ciencia-de-datos)
 - [Machine Learning](#machine-learning)
-- [Convex Optimization](#convex-optimization)
-- [Data Wrangling](#data-wrangling)
+- [Optimización Convexa](#optimizacion-convexa)
+- [Manipulación y recuperación de datos](#manipulacion-y-recuperacion-de-datos)
 - [Big Data](#big-data)
-- [Database](#database)
-- [Deep Learning](#deep-learning)
+- [Base de Datos](#base-de-datos)
 - [Natural Language Processing](#natural-language-processing)
-- [Specializations](#specializations)
+- [Deep Learning](#deep-learning)
+- [Especialización](#especializacion)
 
 ---
 
@@ -70,7 +70,8 @@ para tener éxito.
 
 Cursos | Duración | Esfuerzo | Plataforma
 :-- | :--: | :--: | :--:
-[Algebra Lineal - Fundamentos](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 semanas | 8 horas/semana | Edx
+[Algebra Lineal - Fundamentos](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)| 15 semanas | 8 horas/semana | Edx
+[Algebra Lineal - Avanzado](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers)| 15 semanas | 8 horas/semana | Edx
 [Aplicaciones de Álgebra Lineal Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 semanas | 4 horas/semana | Edx
 [Aplicaciones de Álgebra Lineal Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| 4 semanas | 5 horas/semana | Edx
 

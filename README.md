@@ -17,7 +17,10 @@
 
 ## Cómo contribuir
 
-Puede hacer un Pull Request y agregar más contenido. Aquí un [Tutorial](https://blog.desdelinux.net/tutorial-simple-primer-pr-pull-request/)
+El objetivo de este repositorio es contribuir a la formación de los profesionales interesados en Ciencia de Datos e Inteligencia Artificial.
+Esto ayudará a incrementar los profesionales peruanos e hispanohablantes y así tener mas Data Scientist, Data Enginner, Machine Learning Enginner, Data Architects y demás perfiles existentes.
+Puede hacer un Pull Request y agregar más contenido que crea necesario. 
+Aquí un [Tutorial](https://blog.desdelinux.net/tutorial-simple-primer-pr-pull-request/)
 
 
 ## De qué trata esto
@@ -26,6 +29,7 @@ Esto es un camino sólido para aquellos que desean completar un curso de Ciencia
 con cursos de las **mejores universidades** en el mundo. En nuestro plan de estudios, damos preferencia a los 
 cursos de estilo MOOC (Massive Open Online Course) porque estos cursos se crearon teniendo en cuenta nuestro 
 estilo de aprendizaje.
+
 ## Conviertete en un estudiante de Data Science Research Perú
 
 Para inscribirse oficialmente en este curso, debe crear un perfil en nuestra [web](https://datascience.pe).

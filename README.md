@@ -35,7 +35,8 @@ estilo de aprendizaje.
 ## :star: Conviertete en un estudiante de Data Science Research Perú
 
 Puede unirse a nuestros grupos de [WhatsApp](https://wa.me/51931534817).
-**Pendiente** Para inscribirse oficialmente en este curso, debe crear un perfil en nuestra [web](https://datascience.pe).
+
+**[Pendiente]** Para inscribirse oficialmente en este curso, debe crear un perfil en nuestra [web](https://datascience.pe).
 
 ## :star: Motivación y Preparación
 

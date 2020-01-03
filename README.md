@@ -173,7 +173,7 @@ Puede ver una lista de especializaciones disponibles. [Aquí](https://github.com
 Esta guía fue desarrollada para ser consumida en un enfoque lineal. ¿Qué significa esto? Que debes completar un curso a la vez.
 
 Los cursos ya están en el orden en que debe completarse.
-Simplemente comience en la sección [Álgebra lineal] (#álgebra-lineal) y después de terminar el primer curso, comience el siguiente.
+Simplemente comience en la sección [Álgebra lineal](#álgebra-lineal) y después de terminar el primer curso, comience el siguiente.
 
 **Si el curso no está abierto, hágalo de todos modos con los recursos de la clase anterior.**
 

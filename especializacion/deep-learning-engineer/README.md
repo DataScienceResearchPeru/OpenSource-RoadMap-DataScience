@@ -1,4 +1,4 @@
-![Open Source Road Map Data Science](../images/foto-github.png)
+![Open Source Road Map Data Science](../../images/foto-github.png)
 
 <h3 align="center">Deep Learning Engineer</h3>
 <p align="center">

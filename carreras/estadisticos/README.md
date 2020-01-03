@@ -1,4 +1,4 @@
-![Open Source Road Map Data Science](../images/foto-github.png)
+![Open Source Road Map Data Science](../../images/foto-github.png)
 
 <h3 align="center">Estadísticos</h3>
 <p align="center">
@@ -66,4 +66,4 @@ Cursos | Duración | Esfuerzo | Plataforma
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 semanas | 8-12 horas/semana | Udacity
 
 ## Probabilidad y Estadística
-![](../images/prob.png)
+![](../../images/prob.png)

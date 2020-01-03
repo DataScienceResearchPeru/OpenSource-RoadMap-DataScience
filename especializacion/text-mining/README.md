@@ -1,4 +1,4 @@
-![Open Source Road Map Data Science](../images/foto-github.png)
+![Open Source Road Map Data Science](../../images/foto-github.png)
 
 <h3 align="center">Text Mining</h3>
 <p align="center">
@@ -7,4 +7,4 @@
 </p>
 
 ## Text Mining
-![](../images/textmining.png)
+![](../../images/textmining.png)

@@ -53,6 +53,10 @@ para tener éxito.
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
+El tercer enlace es un vídeo sobre `100` motivos para estudiar Informática. Repasa las **razones fascinantes para aprender** Ciencias de la Computación y toda lo emocionante que implica más allá de una demanda laboral en crecimiento.
+
+- [100 MOTIVOS para estudiar INFORMÁTICA](https://www.youtube.com/watch?v=CTazANzywSA)
+
 **¿Estas listo para empezar?**
 
 ## :star: Currícula

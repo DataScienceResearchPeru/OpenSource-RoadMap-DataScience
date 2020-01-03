@@ -117,6 +117,14 @@ Cursos | Duración | Esfuerzo | Plataforma
 [Introducción a Python para Ciencia](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 semanas | 2-4 horas/semana | Edx
 [Programación con Python para Ciencia de Datos](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 semanas | 3-4 horas/semana | Edx
 
+### :star: R
+Cursos | Duración | Esfuerzo | Plataforma
+:-- | :--: | :--: | :--:
+[Programa especializado Data Science: Foundations using R](https://www.coursera.org/specializations/data-science-foundations-r)| 4 meses | 6 horas/semana | Coursera
+[Programación R](https://www.coursera.org/learn/r-programming)| 2 semanas | 10 horas/semana | Coursera
+[Programa especializado Statistics with R](https://www.coursera.org/specializations/statistics)| 7 meses | 5 horas/semana | Coursera
+[Introducción a Data Science: Programación Estadística con R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r)| 4 semanas | 3-5 horas/semana | Coursera
+
 ### :star: Introducción a la Ciencia de Datos
 Cursos | Duración | Esfuerzo | Plataforma
 :-- | :--: | :--: | :--:

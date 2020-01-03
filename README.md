@@ -182,9 +182,3 @@ Simplemente comience en la sección [Álgebra lineal] (#álgebra-lineal) y despu
 ¡Puede llevar más tiempo completar todas las clases en comparación con un curso regular de Ciencias de Datos, pero podemos **garantizar** que su **recompensa** será proporcional a **su motivación / dedicación**!
 
 Debes concentrarte en tu **hábito** y **olvidarte** de los objetivos. Intenta invertir 1 ~ 2 horas **todos los días** estudiando este plan de estudios. Si haces esto, **inevitablemente** terminarás este plan de estudios.
-
-## Probabilidad y Estadística
-![](images/prob.png)
-
-## Text Mining
-![](images/textmining.png)

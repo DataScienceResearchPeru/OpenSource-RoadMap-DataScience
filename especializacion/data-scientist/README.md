@@ -1,11 +1,12 @@
- <div align="center">
- 
- # 📢 10 Steps to Become a Data Scientist
- # CLEAR DATA. MADE MODEL.
- ### last update: <b>19/07/2019
- ### 💻💾📓✒📊 
- 
- </div>
+![Open Source Road Map Data Science](../images/foto-github.png)
+
+<h3 align="center">Data Scientist</h3>
+<p align="center">
+  :bar_chart: ¡Camino a una educación autodidacta en <strong>Data Science</strong>!
+  <br>
+  10 Steps to Become a Data Scientist
+  <br><br>
+</p>
  
 1. [Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/1-python)
 1. [Python Packages](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/2-python%20packages)

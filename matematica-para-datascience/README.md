@@ -1,4 +1,10 @@
-# Matemática para Ciencia de Datos
+![Open Source Road Map Data Science](../images/foto-github.png)
+
+<h3 align="center">Matemática para Ciencia de Datos</h3>
+<p align="center">
+  :bar_chart: ¡Camino a una educación autodidacta en <strong>Data Science</strong>!
+  <br><br>
+</p>
 ---------------------------------------------------------
 
 Es la primera clase de programación dedicada en la especialización de Data Science diseñada principalmente para estudiantes de matemáticas en la Universidad de California Irvine. Se presentarán algunos de los algoritmos de facto actuales, y algunos teoremas en matemáticas detrás de la ciencia de datos / aprendizaje automático se verificarán utilizando Python, y el formato se puede adaptar a otros lenguajes populares como R y Julia.

@@ -1,3 +1,7 @@
+<p align="center"> 
+<img src="../images/foto-github.png">
+</p>
+
 # Data Science Cheatsheets
 
 ## Tabla de Contenidos

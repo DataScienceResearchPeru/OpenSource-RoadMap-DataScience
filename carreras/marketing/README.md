@@ -1,4 +1,6 @@
-![Open Source Road Map Data Science](../../images/foto-github.png)
+<p align="center"> 
+<img src="../../images/foto-github.png">
+</p>
 
 <h3 align="center">Marketing</h3>
 <p align="center">

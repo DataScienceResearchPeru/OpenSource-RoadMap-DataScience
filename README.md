@@ -51,7 +51,7 @@ El segundo enlace es un MOOC que le enseñará técnicas de aprendizaje utilizad
 literatura, matemáticas, ciencias, deportes y muchas otras disciplinas. Estas son **habilidades fundamentales**
 para tener éxito.
 
-- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender)
 
 **¿Estas listo para empezar?**
 

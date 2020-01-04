@@ -25,7 +25,8 @@ Curso | Duración | Esfuerzo
 [Fundamentals of Statistics - Inicia el 11 may. 2020](https://www.edx.org/es/course/fundamentals-of-statistics)| 16 - semanas | 10-14 horas/semana
 [Machine Learning with Python: from Linear Models to Deep Learning - Inicia el 3 feb. 2020](https://www.edx.org/es/course/machine-learning-with-python-from-linear-models-to)| 14 - semanas | 10-14 horas/semana
 [Capstone Exam in Statistics and Data Science - Inicia el 23 ene. 2020](https://www.edx.org/es/course/capstone-exam-in-statistics-and-data-science)| 2 - semanas | 10-14 horas/semana
- 
+
+Más informes: [https://www.edx.org/es/micromasters/mitx-statistics-and-data-science](https://www.edx.org/es/micromasters/mitx-statistics-and-data-science) 
 
 ### What is a MicroMasters Program?
 

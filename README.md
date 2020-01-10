@@ -78,6 +78,7 @@ para tener éxito.
 
 Cursos | Duración | Esfuerzo | Plataforma
 :-- | :--: | :--: | :--:
+[Esencia del Algebra Lineal](https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA)| 1 semana | 4 horas/semana | YouTube
 [Algebra Lineal - Fundamentos](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)| 15 semanas | 8 horas/semana | Edx
 [Algebra Lineal - Avanzado](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers)| 15 semanas | 8 horas/semana | Edx
 [Aplicaciones de Álgebra Lineal Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 semanas | 4 horas/semana | Edx

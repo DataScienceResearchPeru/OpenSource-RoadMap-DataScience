@@ -12,7 +12,7 @@
 
 - [Cómo contribuir](#Cómo-contribuir)
 - [De qué trata esto](#De-qué-trata-esto)
-- [Conviertete en un estudiante de Data Science Research Perú](#conviertete-en-un-estudiante-de-data-science-research-perú)
+- [Conviértete en un estudiante de Data Science Research Perú](#conviertete-en-un-estudiante-de-data-science-research-perú)
 - [Motivación y Preparación](#Motivación-y-Preparación)
 - [Currícula](#currícula)
 - [Cómo usar está guía](#cómo-usar-está-guía)
@@ -20,7 +20,7 @@
 ## :star: Cómo contribuir
 
 El objetivo de este repositorio es contribuir a la formación de los profesionales interesados en Ciencia de Datos e Inteligencia Artificial.
-Esto ayudará a incrementar los profesionales peruanos e hispanohablantes y así tener mas Data Scientist, Data Engineer, Machine Learning Engineer, Data Architects y demás perfiles existentes.
+Esto ayudará a incrementar los profesionales peruanos e hispanohablantes y así tener más Data Scientist, Data Engineer, Machine Learning Engineer, Data Architects y demás perfiles existentes.
 Puede hacer un Pull Request y agregar más contenido que crea necesario. 
 Aquí un [Tutorial](https://blog.desdelinux.net/tutorial-simple-primer-pr-pull-request/)
 
@@ -57,7 +57,7 @@ El tercer enlace es un vídeo sobre `100` motivos para estudiar Informática. Re
 
 - [100 MOTIVOS para estudiar INFORMÁTICA](https://www.youtube.com/watch?v=CTazANzywSA)
 
-**¿Estas listo para empezar?**
+**¿Estás listo para empezar?**
 
 ## :star: Currícula
 
@@ -142,13 +142,13 @@ Cursos | Duración | Esfuerzo | Plataforma
 :-- | :--: | :--: | :--:
 [Introducción a Machine Learning](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | 10 semanas | 10-20 horas/semana | Edx
 [Aprendiendo de los Datos](http://work.caltech.edu/lectures.html) | 10 semanas | 10-20 horas/semana | California Institute of Technology
-[Aprendizaje estadístico](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - semanas | 3 horas/semana | Standford
+[Aprendizaje estadístico](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - semanas | 3 horas/semana | Stanford
 [Curso Machine Learning de Stanford](https://www.coursera.org/learn/machine-learning)| - semanas | 8-12 horas/semana | Coursera
 
 ### :star: Optimización Convexa
 Cursos | Duración | Esfuerzo | Plataforma
 :-- | :--: | :--: | :--:
-[Optimización Convexa](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 semanas | 10 horas/semana | Standford
+[Optimización Convexa](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 semanas | 10 horas/semana | Stanford
 
 ### :star: Manipulación y recuperación de datos
 Cursos | Duración | Esfuerzo | Plataforma

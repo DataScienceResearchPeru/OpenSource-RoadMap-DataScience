@@ -104,7 +104,8 @@ Cursos | Duración | Esfuerzo | Plataforma
 ### :star: Base de Datos
 Cursos | Duración | Esfuerzo | Plataforma
 :-- | :--: | :--: | :--:
-[Curso Base de Datos de Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| - semanas | 8-12 horas/semana | Stanford
+[Curso Base de Datos](https://www.edx.org/es/course/databases-5-sql)| - semanas | 8-12 horas/semana | Stanford
+[Curso Base de Datos Json](https://www.edx.org/es/course/databases-3-json-data)| - semanas | 8-12 horas/semana | Stanford
 
 ### :star: Probabilidad y Estadística
 Cursos | Duración | Esfuerzo | Plataforma

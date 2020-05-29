@@ -52,6 +52,7 @@ literatura, matemáticas, ciencias, deportes y muchas otras disciplinas. Estas s
 para tener éxito.
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender)
 
 El tercer enlace es un vídeo sobre `100` motivos para estudiar Informática. Repasa las **razones fascinantes para aprender** Ciencias de la Computación y toda lo emocionante que implica más allá de una demanda laboral en crecimiento.
 

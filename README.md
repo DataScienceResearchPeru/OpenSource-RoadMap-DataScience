@@ -8,7 +8,7 @@
   <br><br>
 </p>
 
-## ⭐ Contenido
+## --Contenido
 
 - [De qué trata esto](#De-qué-trata-esto)
 - [Conviértete en un estudiante de Data Science Research Perú](#conviertete-en-un-estudiante-de-data-science-research-perú)
@@ -17,11 +17,11 @@
 - [Cómo usar está guía](#cómo-usar-está-guía)
 - [Cómo contribuir](#Cómo-contribuir)
 
-## ⭐ De qué trata esto
+## --De qué trata esto
 
 Esto es un camino sólido para aquellos que desean completar un curso de Ciencia de datos en su propio tiempo, con cursos de las **mejores universidades** en el mundo. En nuestro plan de estudios, damos preferencia a los cursos de estilo MOOC (Massive Open Online Course) porque estos cursos se crearon teniendo en cuenta nuestro  estilo de aprendizaje.
 
-## ⭐ Conviertete en un estudiante de Data Science Research Perú
+## --Conviertete en un estudiante de Data Science Research Perú
 
 Pueden enviarnos sugerencias y unirse a nuestros grupos de WhatsApp mediante el siguiente los siguientes enlaces: 
   - [Telegram](https://t.me/DataScienceResearchPeru) - Recomendado
@@ -30,7 +30,7 @@ Pueden enviarnos sugerencias y unirse a nuestros grupos de WhatsApp mediante el 
 
 **[Pendiente]** Para inscribirse oficialmente en este curso, debe crear un perfil en nuestra [web](https://datascience.pe).
 
-## ⭐ Motivación y Preparación
+## --Motivación y Preparación
 
 Aquí hay dos enlaces interesantes que pueden marcar **toda** la diferencia en su viaje.
 
@@ -51,54 +51,37 @@ para tener éxito.
 
 **¿Estás listo para empezar?**
 
-## ⭐ Currícula
+## --Currícula
 
-- [⭐ Contenido](#-contenido)
-- [⭐ De qué trata esto](#-de-qué-trata-esto)
-- [⭐ Conviertete en un estudiante de Data Science Research Perú](#-conviertete-en-un-estudiante-de-data-science-research-perú)
-- [⭐ Motivación y Preparación](#-motivación-y-preparación)
-- [⭐ Currícula](#-currícula)
-  - [⭐ Algebra Lineal](#-algebra-lineal)
-  - [⭐ Cálculo](#-cálculo)
-  - [⭐ Cálculo multivariable](#-cálculo-multivariable)
-  - [⭐ Base de Datos](#-base-de-datos)
-  - [⭐ Probabilidad y Estadística](#-probabilidad-y-estadística)
-  - [⭐ Python](#-python)
-  - [⭐ R](#-r)
-  - [⭐ Introducción a la Ciencia de Datos (Data Science)](#-introducción-a-la-ciencia-de-datos-data-science)
-  - [⭐ Introducción a la Ciencia de la Computación (Computer Science)](#-introducción-a-la-ciencia-de-la-computación-computer-science)
-  - [⭐ Aprendizaje de Máquina y Minería de Datos (Machine Learning & Data Mining)](#-aprendizaje-de-máquina-y-minería-de-datos-machine-learning--data-mining)
-  - [⭐ Manipulación y recuperación de datos](#-manipulación-y-recuperación-de-datos)
-  - [Data Science Tools & Methods](#data-science-tools--methods)
-  - [⭐ Especialización](#-especialización)
-- [⭐ Cómo usar está guía](#-cómo-usar-está-guía)
+- [--Contenido](#--contenido)
+- [--De qué trata esto](#--de-qué-trata-esto)
+- [--Conviertete en un estudiante de Data Science Research Perú](#--conviertete-en-un-estudiante-de-data-science-research-perú)
+- [--Motivación y Preparación](#--motivación-y-preparación)
+- [--Currícula](#--currícula)
+  - [--Algebra Lineal](#--algebra-lineal)
+  - [--Cálculo](#--cálculo)
+  - [--Cálculo multivariable](#--cálculo-multivariable)
+  - [--Base de Datos](#--base-de-datos)
+  - [--Probabilidad y Estadística](#--probabilidad-y-estadística)
+  - [--Python](#--python)
+  - [--R](#--r)
+  - [--Introducción a la Ciencia de Datos (Data Science)](#--introducción-a-la-ciencia-de-datos-data-science)
+  - [--Introducción a la Ciencia de la Computación (Computer Science)](#--introducción-a-la-ciencia-de-la-computación-computer-science)
+  - [--Aprendizaje de Máquina y Minería de Datos (Machine Learning & Data Mining)](#--aprendizaje-de-máquina-y-minería-de-datos-machine-learning--data-mining)
+  - [--Manipulación y recuperación de datos](#--manipulación-y-recuperación-de-datos)
+  - [--Data Science Tools & Methods](#--data-science-tools--methods)
+  - [--Especialización](#--especialización)
+- [--Cómo usar está guía](#--cómo-usar-está-guía)
   - [Orden de las clases](#orden-de-las-clases)
   - [¿Debo tomar todos los cursos?](#debo-tomar-todos-los-cursos)
   - [Duración](#duración)
-- [⭐ Cómo contribuir](#-cómo-contribuir)
+- [--Cómo contribuir](#--cómo-contribuir)
 - [Créditos](#créditos)
-
-<!-- 
-  - [⭐ Algebra Lineal](#-algebra-lineal)
-  - [⭐ Cálculo](#-cálculo)
-  - [⭐ Cálculo multivariable](#-cálculo-multivariable)
-  - [⭐ Base de Datos](#-base-de-datos)
-  - [⭐ Probabilidad y Estadística](#-probabilidad-y-estadística)
-  - [⭐ Python](#-python)
-  - [⭐ R](#-r)
-  - [⭐ Introducción a la Ciencia de Datos](#-introducción-a-la-ciencia-de-datos)
-  - [⭐ Machine Learning](#-machine-learning)
-  - [⭐ Optimización Convexa](#-optimización-convexa)
-  - [⭐ Manipulación y recuperación de datos](#-manipulación-y-recuperación-de-datos)
-  - [⭐ Big Data](#-big-data)
-  - [⭐ Natural Language Processing](#-natural-language-processing)
-  - [⭐ Deep Learning](#-deep-learning)
-  - [⭐ Especialización](#-especialización) -->
 
 ---
 ![](images/curricula.png)
 
-### ⭐ Algebra Lineal
+### --Algebra Lineal
 
 | Cursos                                                                                                                   |  Duración  |    Esfuerzo    | Plataforma |
 | :----------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :--------: |
@@ -108,19 +91,19 @@ para tener éxito.
 | [Aplicaciones de Álgebra Lineal Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1) | 5 semanas  | 4 horas/semana |    Edx     |
 | [Aplicaciones de Álgebra Lineal Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2) | 4 semanas  | 5 horas/semana |    Edx     |
 
-### ⭐ Cálculo
+### --Cálculo
 | Cursos                                                                                                                                      |  Duración  |     Esfuerzo      | Plataforma |
 | :------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :---------------: | :--------: |
 | [Calculus 1A: Diferenciación](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)                                         | 13 semanas | 6-10 horas/semana |    Edx     |
 | [Calculus 1B: Integración](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)                                                | 13 semanas | 5-10 horas/semana |    Edx     |
 | [Calculus 1C: Sistemas de coordenadas y series infinitas](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) | 13 semanas | 6-10 horas/semana |    Edx     |
 
-### ⭐ Cálculo multivariable
+### --Cálculo multivariable
 | Cursos                                                                                                                 |  Duración  |    Esfuerzo    | Plataforma |
 | :--------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :--------: |
 | [MIT Cálculo multivariable](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 15 semanas | 8 horas/semana |    MIT     |
 
-### ⭐ Base de Datos
+### --Base de Datos
 | Cursos                                                                                                                                  | Duración  |     Esfuerzo      | Plataforma |
 | :-------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------------: | :--------: |
 | [Database Management Essentials](https://www.coursera.org/learn/database-management)                                                    | 4 semanas | 8-10 horas/semana |  Cousera   |
@@ -137,7 +120,7 @@ OUTDATED
 [Curso Base de Datos Json](https://www.edx.org/es/course/databases-3-json-data)| - semanas | 8-12 horas/semana | Stanford
 -->
 
-### ⭐ Probabilidad y Estadística
+### --Probabilidad y Estadística
 | Cursos                                                                                                             | Duración |    Esfuerzo    | Plataforma |
 | :----------------------------------------------------------------------------------------------------------------- | :------: | :------------: | :--------: |
 | [Introducción a la Probabilidad](https://projects.iq.harvard.edu/stat110/home)                                     | 19 horas | - horas/semana |  Harvard   |
@@ -153,7 +136,7 @@ OUTDATED
 [Introducción a la Estadística: Inferencia](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)| 5 semanas | - horas/semana | Edx
 -->
 
-### ⭐ Python
+### --Python
 | Cursos                                                                                                                                             |  Duración  |    Esfuerzo     | Plataforma |
 | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-------------: | :--------: |
 | [Introducción a Computer Science y Programación usando Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)            | 9 semanas  | 15 horas/semana |    Edx     |
@@ -165,7 +148,7 @@ OUTDATED
 [Programación con Python para Ciencia de Datos](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 semanas | 3-4 horas/semana | Edx
 -->
 
-### ⭐ R
+### --R
 | Cursos                                                                                                                                      | Duración  |     Esfuerzo     | Plataforma |
 | :------------------------------------------------------------------------------------------------------------------------------------------ | :-------: | :--------------: | :--------: |
 | [Programa especializado Data Science: Foundations using R](https://www.coursera.org/specializations/data-science-foundations-r)             |  4 meses  |  6 horas/semana  |  Coursera  |
@@ -173,14 +156,14 @@ OUTDATED
 | [Programa especializado Statistics with R](https://www.coursera.org/specializations/statistics)                                             |  7 meses  |  5 horas/semana  |  Coursera  |
 | [Introducción a Data Science: Programación Estadística con R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r) | 4 semanas | 3-5 horas/semana |  Coursera  |
 
-### ⭐ Introducción a la Ciencia de Datos (Data Science)
+### --Introducción a la Ciencia de Datos (Data Science)
 | Cursos                                                                                        | Duración  |      Esfuerzo      | Plataforma |
 | :-------------------------------------------------------------------------------------------- | :-------: | :----------------: | :--------: |
 | [¿Qué es Ciencia de Datos (DataScience)?](https://www.coursera.org/learn/what-is-datascience) | 1 semanas | 8-10 horas/semana  |  Coursera  |
 | [Introducción a la Ciencia de Datos](https://www.coursera.org/course/datasci)                 | 8 semanas | 10-12 horas/semana |  Coursera  |
 
 
-### ⭐ Introducción a la Ciencia de la Computación (Computer Science)
+### --Introducción a la Ciencia de la Computación (Computer Science)
 _Estudiantes que saben programar en Python o R pueden omitir este inciso._
 
 | Cursos                                                                                                                                        | Duración  |      Esfuerzo      | Plataforma |
@@ -194,7 +177,7 @@ OUTDATED
 [La Ventaja de Analítica](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 semanas | 10-15 horas/semana | Edx 
 -->
 
-### ⭐ Aprendizaje de Máquina y Minería de Datos (Machine Learning & Data Mining)
+### --Aprendizaje de Máquina y Minería de Datos (Machine Learning & Data Mining)
 | Cursos                                                                                       |  Duración  |     Esfuerzo      | Plataforma |
 | :------------------------------------------------------------------------------------------- | :--------: | :---------------: | :--------: |
 | [Machine Learning](https://www.coursera.org/learn/machine-learning)                          | 6 semanas  | 8-10 horas/semana |  Coursera  |
@@ -210,25 +193,27 @@ OUTDATED
 [Curso Machine Learning de Stanford](https://www.coursera.org/learn/machine-learning)| - semanas | 8-12 horas/semana | Coursera 
 
 OUTDATED
-### ⭐ Optimización Convexa
+### --Optimización Convexa
 | Cursos                                                                                            | Duración  |    Esfuerzo     | Plataforma |
 | :------------------------------------------------------------------------------------------------ | :-------: | :-------------: | :--------: |
 | [Optimización Convexa](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) | 9 semanas | 10 horas/semana |  Stanford  |
 -->
 
-### ⭐ Manipulación y recuperación de datos
+### --Manipulación y recuperación de datos
 | Cursos                                                                                                                | Duración  |    Esfuerzo     | Plataforma |
 | :-------------------------------------------------------------------------------------------------------------------- | :-------: | :-------------: | :--------: |
 | [Manipulación y recuperación de datos con MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) | 8 semanas | 10 horas/semana |  Udacity   |
 
-### Data Science Tools & Methods
+### --Data Science Tools & Methods
 | Cursos                                                                                      | Duración  |    Esfuerzo    | Plataforma |
 | :------------------------------------------------------------------------------------------ | :-------: | :------------: | :--------: |
 | [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) | - semanas | - horas/semana |  Coursera  |
 | [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)         | - semanas | - horas/semana |  Coursera  |
 | [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)                | - semanas | - horas/semana |    EdX     |
 
-### ⭐ Especialización
+---
+
+### --Especialización
 
 ¿Big Data?¿Deep Learning?¿NLP?¿Computer Vision?
 
@@ -239,7 +224,7 @@ Puede ver una lista de especializaciones disponibles. [Aquí](https://github.com
 
 ---
 
-## ⭐ Cómo usar está guía
+## --Cómo usar está guía
 
 ### Orden de las clases
 
@@ -261,7 +246,7 @@ Simplemente comience en la sección [Álgebra lineal](#álgebra-lineal) y despu�
 Debes concentrarte en tu **hábito** y **olvidarte** de los objetivos. Intenta invertir 1 ~ 2 horas **todos los días** estudiando este plan de estudios. Si haces esto, **inevitablemente** terminarás este plan de estudios.
 
 
-## ⭐ Cómo contribuir
+## --Cómo contribuir
 
 El objetivo de este repositorio es contribuir a la formación de los profesionales interesados en Ciencia de Datos e Inteligencia Artificial.
 Esto ayudará a incrementar los profesionales peruanos e hispanohablantes y así tener más Data Scientist, Data Engineer, Machine Learning Engineer, Data Architects y demás perfiles existentes.

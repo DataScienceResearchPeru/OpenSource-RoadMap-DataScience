@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
 <img src="images/foto-github.png">
 </p>
 
@@ -23,23 +23,23 @@ Esto es un camino sólido para aquellos que desean completar un curso de Ciencia
 
 ## --Conviertete en un estudiante de Data Science Research Perú
 
-Pueden enviarnos sugerencias y unirse a nuestros grupos de WhatsApp mediante el siguiente los siguientes enlaces: 
+Pueden enviarnos sugerencias y unirse a nuestros grupos de WhatsApp mediante el siguiente los siguientes enlaces:
   - [Telegram](https://t.me/DataScienceResearchPeru) - Recomendado
-  - [Whatsapp](https://wa.me/51931534817)  
+  - [Whatsapp](https://chat.whatsapp.com/EQbIelJffs73ftKSvbvnDZ)  
   - [Discord](https://discord.gg/nEEfhfJ77b)
 
-**[Pendiente]** Para inscribirse oficialmente en este curso, debe crear un perfil en nuestra [web](https://datascience.pe).
+**[Recomendado]** Si deseas contactarte con nuestro responsable, puedes escribirle al [Whatsapp](https://wa.me/51931534817).
 
 ## --Motivación y Preparación
 
 Aquí hay dos enlaces interesantes que pueden marcar **toda** la diferencia en su viaje.
 
-1. El primero es un video motivacional que muestra a un chico que pasó por el "Desafío MIT", 
+1. El primero es un video motivacional que muestra a un chico que pasó por el "Desafío MIT",
 que consiste en aprender todo el currículo MIT **de 4 años** para Ciencias de la Computación en **1 año**.
 
    - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 
-2. El segundo enlace es un MOOC que le enseñará técnicas de aprendizaje utilizadas por expertos en arte, música, 
+2. El segundo enlace es un MOOC que le enseñará técnicas de aprendizaje utilizadas por expertos en arte, música,
 literatura, matemáticas, ciencias, deportes y muchas otras disciplinas. Estas son **habilidades fundamentales**
 para tener éxito.
 
@@ -57,6 +57,7 @@ para tener éxito.
 - [--De qué trata esto](#--de-qué-trata-esto)
 - [--Conviertete en un estudiante de Data Science Research Perú](#--conviertete-en-un-estudiante-de-data-science-research-perú)
 - [--Motivación y Preparación](#--motivación-y-preparación)
+- [--Cursos de Computer Science con videos](#--computer-science-courses-with-video)
 - [--Currícula](#--currícula)
   - [--Algebra Lineal](#--algebra-lineal)
   - [--Cálculo](#--cálculo)
@@ -77,6 +78,10 @@ para tener éxito.
   - [Duración](#duración)
 - [--Cómo contribuir](#--cómo-contribuir)
 - [Créditos](#créditos)
+
+---
+### --Cursos de Computer Science con videos
+Usamos una copia de este [Repo](https://github.com/Developer-Y/cs-video-courses) en el cual puedes encontrar muchos videos relacionados a Inteligencia Artificial, base de datos, machine learning, matemáticas y más. Si te animas puedes dejar tu Pull Request en este link [Aquí](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience/tree/master/computer-science-video).
 
 ---
 ![](images/curricula.png)
@@ -113,7 +118,7 @@ para tener éxito.
 | [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building) | 3 semanas | 8-10 horas/semana |  Cousera   |
 | [MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)                                         | - semanas |  - horas/semana   |  MongoDB   |
 
-<!-- 
+<!--
 OUTDATED
 [Base de Datos Relacionales y SQL](https://www.edx.org/es/course/databases-5-sql)| 2 semanas | 8-10 horas/semana | Stanford
 [Base de Datos Relacionales y SQL (Avanzado)](https://www.edx.org/es/course/advanced-topics-in-sql)| 2 semanas | 8-10 horas/semana | Stanford
@@ -128,9 +133,9 @@ OUTDATED
 | [Introducción a la Estadística Inferencial](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | 19 horas | - horas/semana |  Udacity   |
 | [Conceptos básicos con Python](https://www.datacamp.com/tracks/statistics-fundamentals-with-python)                | 19 horas | - horas/semana |  DataCamp  |
 
-<!-- 
+<!--
 OUTDATED
-[Razonamiento Estadístico](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - semanas | - horas/semana | Standford 
+[Razonamiento Estadístico](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - semanas | - horas/semana | Standford
 [Introducción a la Estadística: Descriptiva](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)| 5 semanas | - horas/semana | Edx
 [Introducción a la Estadística: Probabilística](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)| 5 semanas | - horas/semana | Edx
 [Introducción a la Estadística: Inferencia](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)| 5 semanas | - horas/semana | Edx
@@ -142,7 +147,7 @@ OUTDATED
 | [Introducción a Computer Science y Programación usando Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)            | 9 semanas  | 15 horas/semana |    Edx     |
 | [Introducción al Pensamiento Computacional y Ciencia de Datos](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3) | 10 semanas | 15 horas/semana |    Edx     |
 
-<!-- 
+<!--
 OUTDATED
 [Introducción a Python para Ciencia](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 semanas | 2-4 horas/semana | Edx
 [Programación con Python para Ciencia de Datos](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 semanas | 3-4 horas/semana | Edx
@@ -171,10 +176,10 @@ _Estudiantes que saben programar en Python o R pueden omitir este inciso._
 | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)      | 9 semanas | 14-16 horas/semana |    EdX     |
 | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3) | 9 semanas | 14-16 horas/semana |    EdX     |
 
-<!-- 
+<!--
 OUTDATED
 [Ciencia de Datos - CS109 de Harvard](http://cs109.github.io/2015/)| 12 semanas | 5-6 horas/semana | Harvard
-[La Ventaja de Analítica](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 semanas | 10-15 horas/semana | Edx 
+[La Ventaja de Analítica](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 semanas | 10-15 horas/semana | Edx
 -->
 
 ### --Aprendizaje de Máquina y Minería de Datos (Machine Learning & Data Mining)
@@ -185,12 +190,12 @@ OUTDATED
 | [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                | 7 semanas  | 5-10 horas/semana |    Edx     |
 | [Process Mining](https://www.coursera.org/learn/process-mining)                              | 3 semanas  | 5-10 horas/semana |  Coursera  |
 
-<!-- 
+<!--
 OUTDATED
 [Introducción a Machine Learning](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | 10 semanas | 10-20 horas/semana | Edx
 [Aprendiendo de los Datos](http://work.caltech.edu/lectures.html) | 10 semanas | 10-20 horas/semana | California Institute of Technology
 [Aprendizaje estadístico](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - semanas | 3 horas/semana | Stanford
-[Curso Machine Learning de Stanford](https://www.coursera.org/learn/machine-learning)| - semanas | 8-12 horas/semana | Coursera 
+[Curso Machine Learning de Stanford](https://www.coursera.org/learn/machine-learning)| - semanas | 8-12 horas/semana | Coursera
 
 OUTDATED
 ### --Optimización Convexa
@@ -250,7 +255,7 @@ Debes concentrarte en tu **hábito** y **olvidarte** de los objetivos. Intenta i
 
 El objetivo de este repositorio es contribuir a la formación de los profesionales interesados en Ciencia de Datos e Inteligencia Artificial.
 Esto ayudará a incrementar los profesionales peruanos e hispanohablantes y así tener más Data Scientist, Data Engineer, Machine Learning Engineer, Data Architects y demás perfiles existentes.
-Puede hacer un Pull Request y agregar más contenido que crea necesario. 
+Puede hacer un Pull Request y agregar más contenido que crea necesario.
 Aquí un [Tutorial](https://blog.desdelinux.net/tutorial-simple-primer-pr-pull-request/)
 
 ## Créditos

@@ -10,12 +10,12 @@
 
 ## --Contenido
 
-- [De qué trata esto](#De-qué-trata-esto)
-- [Conviértete en un estudiante de Data Science Research Perú](#conviertete-en-un-estudiante-de-data-science-research-perú)
-- [Motivación y Preparación](#Motivación-y-Preparación)
-- [Currícula](#currícula)
-- [Cómo usar está guía](#cómo-usar-está-guía)
-- [Cómo contribuir](#Cómo-contribuir)
+- [De qué trata esto](#--De-qué-trata-esto)
+- [Conviértete en un estudiante de Data Science Research Perú](#--conviertete-en-un-estudiante-de-data-science-research-perú)
+- [Motivación y Preparación](#--Motivación-y-Preparación)
+- [Currícula](#--currícula)
+- [Cómo usar está guía](#--cómo-usar-está-guía)
+- [Cómo contribuir](#--Cómo-contribuir)
 
 ## --De qué trata esto
 

@@ -91,6 +91,7 @@ Usamos una copia de este [Repo](https://github.com/Developer-Y/cs-video-courses)
 | Cursos                                                                                                                   |  Duración  |    Esfuerzo    | Plataforma |
 | :----------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :--------: |
 | [Esencia del Algebra Lineal](https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA)                   |  1 semana  | 4 horas/semana |  YouTube   |
+| [Khan Academy: Álgebra Lineal](https://es.khanacademy.org/math/linear-algebra)                   |  - semana  | - horas/semana |  Khan Academy   |
 | [Algebra Lineal - Fundamentos](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)                       | 15 semanas | 8 horas/semana |    Edx     |
 | [Algebra Lineal - Avanzado](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers)                 | 15 semanas | 8 horas/semana |    Edx     |
 | [Aplicaciones de Álgebra Lineal Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1) | 5 semanas  | 4 horas/semana |    Edx     |
@@ -99,6 +100,7 @@ Usamos una copia de este [Repo](https://github.com/Developer-Y/cs-video-courses)
 ### --Cálculo
 | Cursos                                                                                                                                      |  Duración  |     Esfuerzo      | Plataforma |
 | :------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :---------------: | :--------: |
+| [Khan Academy: Precálculo](https://es.khanacademy.org/math/precalculus)                                                                                   | - semanas  | - horas/semana    | Khan Academy |
 | [Calculus 1A: Diferenciación](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)                                         | 13 semanas | 6-10 horas/semana |    Edx     |
 | [Calculus 1B: Integración](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)                                                | 13 semanas | 5-10 horas/semana |    Edx     |
 | [Calculus 1C: Sistemas de coordenadas y series infinitas](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) | 13 semanas | 6-10 horas/semana |    Edx     |
@@ -106,6 +108,7 @@ Usamos una copia de este [Repo](https://github.com/Developer-Y/cs-video-courses)
 ### --Cálculo multivariable
 | Cursos                                                                                                                 |  Duración  |    Esfuerzo    | Plataforma |
 | :--------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :--------: |
+| [Khan Academy: Cálculo multivariable](https://es.khanacademy.org/math/multivariable-calculus)                          | - semanas  | - horas/semana | Khan Academy |
 | [MIT Cálculo multivariable](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 15 semanas | 8 horas/semana |    MIT     |
 
 ### --Base de Datos

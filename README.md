@@ -2,7 +2,7 @@
 <img src="images/foto-github.png">
 </p>
 
-<h3 align="center">Open Source Road Map Data Science 2021</h3>
+<h3 align="center">Open Source Road Map Data Science 2022</h3>
 <p align="center">
   ¡Camino a una educación autodidacta en <strong>Data Science</strong>!
   <br><br>
@@ -24,7 +24,7 @@ Esto es un camino sólido para aquellos que desean completar un curso de Ciencia
 ## --Conviertete en un estudiante de Data Science Research Perú
 
 Pueden enviarnos sugerencias y unirse a nuestros grupos de WhatsApp mediante el siguiente los siguientes enlaces:
-  - [Telegram](https://t.me/DataScienceResearchPeru) - Recomendado
+  - [Telegram](https://t.me/DataScienceResearchPeru) - Disabled by now
   - [Whatsapp](https://chat.whatsapp.com/EQbIelJffs73ftKSvbvnDZ)  
   - [Discord](https://discord.gg/nEEfhfJ77b)
 
@@ -57,15 +57,14 @@ para tener éxito.
 - [--De qué trata esto](#--de-qué-trata-esto)
 - [--Conviertete en un estudiante de Data Science Research Perú](#--conviertete-en-un-estudiante-de-data-science-research-perú)
 - [--Motivación y Preparación](#--motivación-y-preparación)
-- [--Cursos de Computer Science con videos](#--computer-science-courses-with-video)
 - [--Currícula](#--currícula)
+  - [--Cursos de Computer Science con videos](#--cursos-de-computer-science-con-videos)
   - [--Algebra Lineal](#--algebra-lineal)
-  - [--Cálculo](#--cálculo)
+  - [--Cálculo de una variable](#--cálculo-de-una-variable)
   - [--Cálculo multivariable](#--cálculo-multivariable)
   - [--Base de Datos](#--base-de-datos)
   - [--Probabilidad y Estadística](#--probabilidad-y-estadística)
   - [--Python](#--python)
-  - [--R](#--r)
   - [--Introducción a la Ciencia de Datos (Data Science)](#--introducción-a-la-ciencia-de-datos-data-science)
   - [--Introducción a la Ciencia de la Computación (Computer Science)](#--introducción-a-la-ciencia-de-la-computación-computer-science)
   - [--Aprendizaje de Máquina y Minería de Datos (Machine Learning & Data Mining)](#--aprendizaje-de-máquina-y-minería-de-datos-machine-learning--data-mining)
@@ -88,28 +87,27 @@ Usamos una copia de este [Repo](https://github.com/Developer-Y/cs-video-courses)
 
 ### --Algebra Lineal
 
-| Cursos                                                                                                                   |  Duración  |    Esfuerzo    | Plataforma |
-| :----------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :--------: |
-| [Esencia del Algebra Lineal](https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA)                   |  1 semana  | 4 horas/semana |  YouTube   |
-| [Khan Academy: Álgebra Lineal](https://es.khanacademy.org/math/linear-algebra)                   |  - semana  | - horas/semana |  Khan Academy   |
-| [Algebra Lineal - Fundamentos](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)                       | 15 semanas | 8 horas/semana |    Edx     |
-| [Algebra Lineal - Avanzado](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers)                 | 15 semanas | 8 horas/semana |    Edx     |
-| [Aplicaciones de Álgebra Lineal Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1) | 5 semanas  | 4 horas/semana |    Edx     |
-| [Aplicaciones de Álgebra Lineal Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2) | 4 semanas  | 5 horas/semana |    Edx     |
+| Cursos                                                                                                   |  Duración  |    Esfuerzo    |  Plataforma   |
+| :------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :-----------: |
+| [Esencia del Algebra Lineal](https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA)   |  1 semana  | 4 horas/semana |    YouTube    |
+| [Khan Academy: Álgebra Lineal](https://es.khanacademy.org/math/linear-algebra)                           |  - semana  | - horas/semana | Khan Academy  |
+| [Algebra Lineal - Fundamentos](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)       | 15 semanas | 8 horas/semana |      Edx      |
+| [Algebra Lineal - Avanzado](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers) | 15 semanas | 8 horas/semana |      Edx      |
+| [Algebra 2021 MIT](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)                        | 12 semanas | 4 horas/semana | MITOpenCourse |
 
-### --Cálculo
-| Cursos                                                                                                                                      |  Duración  |     Esfuerzo      | Plataforma |
-| :------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :---------------: | :--------: |
-| [Khan Academy: Precálculo](https://es.khanacademy.org/math/precalculus)                                                                                   | - semanas  | - horas/semana    | Khan Academy |
-| [Calculus 1A: Diferenciación](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)                                         | 13 semanas | 6-10 horas/semana |    Edx     |
-| [Calculus 1B: Integración](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)                                                | 13 semanas | 5-10 horas/semana |    Edx     |
-| [Calculus 1C: Sistemas de coordenadas y series infinitas](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) | 13 semanas | 6-10 horas/semana |    Edx     |
+### --Cálculo de una variable
+| Cursos                                                                                                                                      |  Duración  |     Esfuerzo      |  Plataforma  |
+| :------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :---------------: | :----------: |
+| [Khan Academy: Precálculo](https://es.khanacademy.org/math/precalculus)                                                                     | - semanas  |  - horas/semana   | Khan Academy |
+| [Calculus 1A: Diferenciación](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)                                         | 13 semanas | 6-10 horas/semana |     Edx      |
+| [Calculus 1B: Integración](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)                                                | 13 semanas | 5-10 horas/semana |     Edx      |
+| [Calculus 1C: Sistemas de coordenadas y series infinitas](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) | 13 semanas | 6-10 horas/semana |     Edx      |
 
 ### --Cálculo multivariable
-| Cursos                                                                                                                 |  Duración  |    Esfuerzo    | Plataforma |
-| :--------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :--------: |
+| Cursos                                                                                                                 |  Duración  |    Esfuerzo    |  Plataforma  |
+| :--------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :----------: |
 | [Khan Academy: Cálculo multivariable](https://es.khanacademy.org/math/multivariable-calculus)                          | - semanas  | - horas/semana | Khan Academy |
-| [MIT Cálculo multivariable](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 15 semanas | 8 horas/semana |    MIT     |
+| [MIT Cálculo multivariable](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 15 semanas | 8 horas/semana |     MIT      |
 
 ### --Base de Datos
 | Cursos                                                                                                                                  | Duración  |     Esfuerzo      | Plataforma |
@@ -121,13 +119,6 @@ Usamos una copia de este [Repo](https://github.com/Developer-Y/cs-video-courses)
 | [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building) | 3 semanas | 8-10 horas/semana |  Cousera   |
 | [MongoDB for Developers Learning Path](https://university.mongodb.com/learning_paths/developer)                                         | - semanas |  - horas/semana   |  MongoDB   |
 
-<!--
-OUTDATED
-[Base de Datos Relacionales y SQL](https://www.edx.org/es/course/databases-5-sql)| 2 semanas | 8-10 horas/semana | Stanford
-[Base de Datos Relacionales y SQL (Avanzado)](https://www.edx.org/es/course/advanced-topics-in-sql)| 2 semanas | 8-10 horas/semana | Stanford
-[Curso Base de Datos Json](https://www.edx.org/es/course/databases-3-json-data)| - semanas | 8-12 horas/semana | Stanford
--->
-
 ### --Probabilidad y Estadística
 | Cursos                                                                                                             | Duración |    Esfuerzo    | Plataforma |
 | :----------------------------------------------------------------------------------------------------------------- | :------: | :------------: | :--------: |
@@ -136,40 +127,26 @@ OUTDATED
 | [Introducción a la Estadística Inferencial](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | 19 horas | - horas/semana |  Udacity   |
 | [Conceptos básicos con Python](https://www.datacamp.com/tracks/statistics-fundamentals-with-python)                | 19 horas | - horas/semana |  DataCamp  |
 
-<!--
-OUTDATED
-[Razonamiento Estadístico](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - semanas | - horas/semana | Standford
-[Introducción a la Estadística: Descriptiva](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)| 5 semanas | - horas/semana | Edx
-[Introducción a la Estadística: Probabilística](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)| 5 semanas | - horas/semana | Edx
-[Introducción a la Estadística: Inferencia](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)| 5 semanas | - horas/semana | Edx
--->
-
 ### --Python
 | Cursos                                                                                                                                             |  Duración  |    Esfuerzo     | Plataforma |
 | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-------------: | :--------: |
+| [Python para todos](https://www.py4e.com/)                                                                                                         | 8 semanas  | 8 horas/semana  |    py4e    |
 | [Introducción a Computer Science y Programación usando Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)            | 9 semanas  | 15 horas/semana |    Edx     |
 | [Introducción al Pensamiento Computacional y Ciencia de Datos](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3) | 10 semanas | 15 horas/semana |    Edx     |
-
-<!--
-OUTDATED
-[Introducción a Python para Ciencia](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 semanas | 2-4 horas/semana | Edx
-[Programación con Python para Ciencia de Datos](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 semanas | 3-4 horas/semana | Edx
--->
-
+<!--  OUTDATED
 ### --R
 | Cursos                                                                                                                                      | Duración  |     Esfuerzo     | Plataforma |
 | :------------------------------------------------------------------------------------------------------------------------------------------ | :-------: | :--------------: | :--------: |
 | [Programa especializado Data Science: Foundations using R](https://www.coursera.org/specializations/data-science-foundations-r)             |  4 meses  |  6 horas/semana  |  Coursera  |
 | [Programación R](https://www.coursera.org/learn/r-programming)                                                                              | 2 semanas | 10 horas/semana  |  Coursera  |
 | [Programa especializado Statistics with R](https://www.coursera.org/specializations/statistics)                                             |  7 meses  |  5 horas/semana  |  Coursera  |
-| [Introducción a Data Science: Programación Estadística con R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r) | 4 semanas | 3-5 horas/semana |  Coursera  |
+| [Introducción a Data Science: Programación Estadística con R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r) | 4 semanas | 3-5 horas/semana |  Coursera  | --> |
 
 ### --Introducción a la Ciencia de Datos (Data Science)
 | Cursos                                                                                        | Duración  |      Esfuerzo      | Plataforma |
 | :-------------------------------------------------------------------------------------------- | :-------: | :----------------: | :--------: |
 | [¿Qué es Ciencia de Datos (DataScience)?](https://www.coursera.org/learn/what-is-datascience) | 1 semanas | 8-10 horas/semana  |  Coursera  |
 | [Introducción a la Ciencia de Datos](https://www.coursera.org/course/datasci)                 | 8 semanas | 10-12 horas/semana |  Coursera  |
-
 
 ### --Introducción a la Ciencia de la Computación (Computer Science)
 _Estudiantes que saben programar en Python o R pueden omitir este inciso._
@@ -179,12 +156,6 @@ _Estudiantes que saben programar en Python o R pueden omitir este inciso._
 | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)      | 9 semanas | 14-16 horas/semana |    EdX     |
 | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3) | 9 semanas | 14-16 horas/semana |    EdX     |
 
-<!--
-OUTDATED
-[Ciencia de Datos - CS109 de Harvard](http://cs109.github.io/2015/)| 12 semanas | 5-6 horas/semana | Harvard
-[La Ventaja de Analítica](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 semanas | 10-15 horas/semana | Edx
--->
-
 ### --Aprendizaje de Máquina y Minería de Datos (Machine Learning & Data Mining)
 | Cursos                                                                                       |  Duración  |     Esfuerzo      | Plataforma |
 | :------------------------------------------------------------------------------------------- | :--------: | :---------------: | :--------: |
@@ -192,20 +163,6 @@ OUTDATED
 | [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 semanas | 8-10 horas/semana |  Udacity   |
 | [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                | 7 semanas  | 5-10 horas/semana |    Edx     |
 | [Process Mining](https://www.coursera.org/learn/process-mining)                              | 3 semanas  | 5-10 horas/semana |  Coursera  |
-
-<!--
-OUTDATED
-[Introducción a Machine Learning](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | 10 semanas | 10-20 horas/semana | Edx
-[Aprendiendo de los Datos](http://work.caltech.edu/lectures.html) | 10 semanas | 10-20 horas/semana | California Institute of Technology
-[Aprendizaje estadístico](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - semanas | 3 horas/semana | Stanford
-[Curso Machine Learning de Stanford](https://www.coursera.org/learn/machine-learning)| - semanas | 8-12 horas/semana | Coursera
-
-OUTDATED
-### --Optimización Convexa
-| Cursos                                                                                            | Duración  |    Esfuerzo     | Plataforma |
-| :------------------------------------------------------------------------------------------------ | :-------: | :-------------: | :--------: |
-| [Optimización Convexa](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) | 9 semanas | 10 horas/semana |  Stanford  |
--->
 
 ### --Manipulación y recuperación de datos
 | Cursos                                                                                                                | Duración  |    Esfuerzo     | Plataforma |
@@ -228,7 +185,7 @@ OUTDATED
 Después de terminar los cursos anteriores, comience sus especializaciones en los temas que le interesan más.
 Puede ver una lista de especializaciones disponibles. [Aquí](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience/tree/master/especializacion).
 
-![keep learning](http://i.imgur.com/REQK0VU.jpg)
+![keep learning](images/portada-grupofb.png)
 
 ---
 
@@ -252,7 +209,6 @@ Simplemente comience en la sección [Álgebra lineal](#álgebra-lineal) y despu�
 ¡Puede llevar más tiempo completar todas las clases en comparación con un curso regular de Ciencias de Datos, pero podemos **garantizar** que su **recompensa** será proporcional a **su motivación / dedicación**!
 
 Debes concentrarte en tu **hábito** y **olvidarte** de los objetivos. Intenta invertir 1 ~ 2 horas **todos los días** estudiando este plan de estudios. Si haces esto, **inevitablemente** terminarás este plan de estudios.
-
 
 ## --Cómo contribuir
 

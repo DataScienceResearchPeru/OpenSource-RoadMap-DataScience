@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="../images/foto-github.png">
+  <img src="../images/foto-github.png">
 </p>
 
 <h3 align="center">Matemática para Ciencia de Datos</h3>
@@ -12,14 +12,15 @@
 Es la primera clase de programación dedicada en la especialización de Data Science diseñada principalmente para estudiantes de matemáticas en la Universidad de California Irvine. Se presentarán algunos de los algoritmos de facto actuales, y algunos teoremas en matemáticas detrás de la ciencia de datos / aprendizaje automático se verificarán utilizando Python, y el formato se puede adaptar a otros lenguajes populares como R y Julia.
 
 ### Prerequisites: 
-**MATH 2D** Multivariate Calculus
+**MATH 2D:** [Multivariate Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 <br><br>
-**MATH 3A** Linear Algebra(se puede tomar simultáneamente)
+**MATH 3A:** [Linear Algebra (se puede tomar simultáneamente)](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 <br><br>
-**MATH 9** Introduction to Programming for Numerical Analysis
+**MATH 9:** [Introduction for Numerical Analysis](https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2004/)
 <br><br>
+
 #### Recomendación: 
-**MATH 130A** Probabilty I
+**MATH 130A:** [Probability I](https://www.math.uci.edu/~isik/teaching/17S_MATH130A/)
 <br><br>
 
 ----
